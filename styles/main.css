@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+}
+
+canvas {
+	position: fixed; 
+	top: 0; left: 0;
+}
+
+div#size {
+	height: 5000px;
+}
+
+div#first {
+	color: #00beef;
+	position: absolute;
+	top: 4500px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display: block;
+}
